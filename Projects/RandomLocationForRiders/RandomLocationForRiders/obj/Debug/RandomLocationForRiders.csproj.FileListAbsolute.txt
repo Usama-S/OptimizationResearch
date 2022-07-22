@@ -1,0 +1,13 @@
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\bin\Debug\RandomLocationForRiders.exe.config
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\bin\Debug\RandomLocationForRiders.exe
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\bin\Debug\RandomLocationForRiders.pdb
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\bin\Debug\EntityFramework.dll
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\bin\Debug\EntityFramework.xml
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\obj\Debug\RandomLocationForRiders.csproj.AssemblyReference.cache
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\obj\Debug\RandomLocationForRiders.csproj.SuggestedBindingRedirects.cache
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\obj\Debug\RandomLocationForRiders.csproj.CoreCompileInputs.cache
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\obj\Debug\RandomLocationForRiders.csproj.CopyComplete
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\obj\Debug\RandomLocationForRiders.exe
+C:\Users\43144\Desktop\Delete\RandomLocationForRiders\RandomLocationForRiders\obj\Debug\RandomLocationForRiders.pdb
